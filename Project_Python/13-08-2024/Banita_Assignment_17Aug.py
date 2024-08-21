@@ -1,5 +1,5 @@
+17th Aug
 Home Work Task 3, 4, 5
-
 
 ### Task #3
 - Explain the difference between the = operator and the == operator in Python.
