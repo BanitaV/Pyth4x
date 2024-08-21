@@ -62,7 +62,7 @@ cube = num ** 3
 print("The square is =", square)
 print(f"The cube of {num} is: {cube}")
 
-#
+# 2 way
 num = int(input("Enter the number: \n"))
 print("Square of the", num, "is", num**2)
 print("Cube of the", num, "is", num**3)
