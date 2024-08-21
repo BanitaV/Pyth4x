@@ -16,7 +16,7 @@ result = max(10, 20)
 print (result)
 '''
 
-# a= int(input('Enter number 1='))
+# a= int(input('Enter number 1='))\
 # b= int(input('Enter number 2='))
 # #print ('Maximum value is =', max( a,b))
 # print ('Power value is =', pow(a,b))
@@ -27,7 +27,7 @@ print (result)
 # formated_number= f"{a:.2f}"
 # print (formated_number)
 
-a= float(input('Enter number='))
+a = float(input('Enter number='))
 formated_number= f"{a:.3f}"
-print (formated_number)
+print(formated_number)
 
